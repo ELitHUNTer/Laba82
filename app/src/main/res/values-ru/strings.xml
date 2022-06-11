@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Локализованное приложение</string>
+
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="create_account">Создать аккаунт</string>
+
+    <string name="console">Консоль</string>
+    <string name="collection">Коллекция</string>
+    <string name="graphics">Графика</string>
+    <string name="settings">Настройки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="quit">Выйти</string>
+    <string name="current_login">Текущий профиль</string>
+    <string name="language">Язык</string>
+
+    <string name="request">Запрос</string>
+    <string name="submit">Подтвердить</string>
+    <string name="loginError">Неверный логин/пароль</string>
+</resources>

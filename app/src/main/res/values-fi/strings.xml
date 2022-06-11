@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Kirjautuminen</string>
+    <string name="password">Salasana</string>
+    <string name="enter">Kirjoittaa</string>
+    <string name="create_account">Luo tili</string>
+
+    <string name="console">Lohduttaa</string>
+    <string name="collection">Kokoelma</string>
+    <string name="graphics">Grafiikka</string>
+    <string name="settings">Asetus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="quit">Lopettaa</string>
+    <string name="current_login">Nykyinen kirjautuminen</string>
+    <string name="language">Kieli</string>
+
+    <string name="request">Pyyntö</string>
+    <string name="submit">Lähettää</string>
+    <string name="loginError">Väärä kirjautuminen / salasana</string>
+</resources>

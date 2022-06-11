@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Σύνδεση</string>
+    <string name="password">Κωδικός</string>
+    <string name="enter">Εισαγάγετε</string>
+    <string name="create_account">Δημιουργία λογαριασμού</string>
+
+    <string name="console">Κονσόλα</string>
+    <string name="collection">Συλλογή</string>
+    <string name="graphics">Γραφική</string>
+    <string name="settings">Ρυθμίσεων</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="quit">Κλείστε</string>
+    <string name="current_login">Τρέχουσα σύνδεση</string>
+    <string name="language">Γλώσσα</string>
+
+    <string name="request">Αίτηση</string>
+    <string name="submit">Υποβολή</string>
+    <string name="loginError">Λάθος σύνδεση / κωδικός πρόσβασης</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation3"
+    app:startDestination="@+id/navigation_console">
+
+    <fragment
+        android:id="@+id/navigation_console"
+        android:name="com.example.laba8.ui.ConsoleFragment"
+        android:label="@string/console"
+        tools:layout="@layout/fragment_console" />
+
+    <fragment
+        android:id="@+id/navigation_collection"
+        android:name="com.example.laba8.ui.CollectionFragment"
+        android:label="@string/collection"
+        tools:layout="@layout/fragment_collection" />
+
+    <fragment
+        android:id="@+id/navigation_graphics"
+        android:name="com.example.laba8.ui.GraphicsFragment"
+        android:label="@string/graphics"
+        tools:layout="@layout/fragment_collection" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.laba8.ui.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_graphics" />
+</navigation>

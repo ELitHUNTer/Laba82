@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/drawable-v24/selected_border.xml" value="0.117" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/drawable-v24/settings.xml" value="0.117" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/drawable/border.xml" value="0.1475" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.15" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/activity_edit_organization.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/activity_main.xml" value="0.15099009900990099" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/collection_basic_row.xml" value="0.152" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/dialog_view.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_collection.xml" value="0.20161943319838058" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_console.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_graphics.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_notifications.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_settings.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/fragment_slideshow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/list_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/layout/vertical_rv.xml" value="0.1515625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/menu/activity_main_drawer.xml" value="0.2359375" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/Laba82/app/src/main/res/menu/main.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
